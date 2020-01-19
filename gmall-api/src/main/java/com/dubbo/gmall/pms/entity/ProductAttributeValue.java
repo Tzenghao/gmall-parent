@@ -16,7 +16,7 @@ import lombok.experimental.Accessors;
  * 存储产品参数信息的表
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

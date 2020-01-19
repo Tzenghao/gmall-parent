@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  *  服务实现类
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 @Service
 public class ProductOperateLogServiceImpl extends ServiceImpl<ProductOperateLogMapper, ProductOperateLog> implements ProductOperateLogService {

@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * 订单中所包含的商品
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

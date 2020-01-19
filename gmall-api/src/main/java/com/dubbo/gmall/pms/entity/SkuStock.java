@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * sku的库存
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

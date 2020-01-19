@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 商品属性参数表 Mapper 接口
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 public interface ProductAttributeMapper extends BaseMapper<ProductAttribute> {

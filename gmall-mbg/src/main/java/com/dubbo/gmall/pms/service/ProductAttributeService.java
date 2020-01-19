@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 商品属性参数表 服务类
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 public interface ProductAttributeService extends IService<ProductAttribute> {
 

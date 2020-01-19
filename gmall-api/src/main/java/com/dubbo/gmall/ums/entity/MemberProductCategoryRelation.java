@@ -16,7 +16,7 @@ import lombok.experimental.Accessors;
  * 会员与产品分类关系表（用户喜欢的分类）
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

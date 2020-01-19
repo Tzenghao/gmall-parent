@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 运费模版 服务类
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 public interface FeightTemplateService extends IService<FeightTemplate> {
 

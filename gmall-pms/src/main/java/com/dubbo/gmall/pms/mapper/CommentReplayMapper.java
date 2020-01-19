@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 产品评价回复表 Mapper 接口
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 public interface CommentReplayMapper extends BaseMapper<CommentReplay> {

@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * 退货原因表
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

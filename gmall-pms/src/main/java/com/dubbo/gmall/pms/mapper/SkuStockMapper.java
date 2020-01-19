@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * sku的库存 Mapper 接口
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 public interface SkuStockMapper extends BaseMapper<SkuStock> {

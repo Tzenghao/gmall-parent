@@ -23,7 +23,7 @@ public class CodeGenerator {
 
     public static void main(String[] args) {
         //生成哪个模块的
-        String moduleName = "sms";
+        String moduleName = "pms";
 
         // 1、创建代码生成器
         AutoGenerator mpg = new AutoGenerator();
@@ -32,7 +32,7 @@ public class CodeGenerator {
         GlobalConfig gc = new GlobalConfig();
         String projectPath = System.getProperty("user.dir");
         gc.setOutputDir("D:\\idea\\project\\gmall-parent\\gmall-mbg" + "/src/main/java"); //生成的代码放在哪
-        gc.setAuthor("Lfy");//作者
+        gc.setAuthor("Zh");//作者
         gc.setOpen(false); //生成后是否打开资源管理器
         gc.setFileOverride(false); //重新生成时文件是否覆盖
         gc.setServiceName("%sService");	//去掉Service接口的首字母I
@@ -40,6 +40,7 @@ public class CodeGenerator {
         gc.setDateType(DateType.ONLY_DATE);//定义生成的实体类中日期类型
         gc.setSwagger2(true);//开启Swagger2模式
         gc.setBaseColumnList(true);
+        gc.setBaseResultMap(true);  //生成每个xml的resultMap
 
         mpg.setGlobalConfig(gc);
 

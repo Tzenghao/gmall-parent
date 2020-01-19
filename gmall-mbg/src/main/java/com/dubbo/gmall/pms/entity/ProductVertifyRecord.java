@@ -17,8 +17,8 @@ import lombok.experimental.Accessors;
  * 商品审核记录
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * 产品阶梯价格表(只针对同商品)
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

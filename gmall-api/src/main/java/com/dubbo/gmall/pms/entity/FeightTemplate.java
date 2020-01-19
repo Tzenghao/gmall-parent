@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * 运费模版
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

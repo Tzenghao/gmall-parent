@@ -12,6 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *      第三方jar包导入
  *      导致日志配置
  *      在kibana里面建立好日志索引，就可以可视化检索
+ *
  */
 @EnableDubbo
 @MapperScan(basePackages = "com.dubbo.gmall.pms.mapper")

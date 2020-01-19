@@ -1,5 +1,6 @@
 package com.dubbo.gmall.pms.config;
 
+import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import io.shardingjdbc.core.api.MasterSlaveDataSourceFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -27,5 +28,12 @@ public class PmsDataSourceConfig {
         //创建数据源
         DataSource dataSource = MasterSlaveDataSourceFactory.createDataSource(file);
         return dataSource;
+    }
+    /**
+     * 分页插件
+     */
+    @Bean
+    public PaginationInterceptor paginationInterceptor(){
+        return new PaginationInterceptor();
     }
 }

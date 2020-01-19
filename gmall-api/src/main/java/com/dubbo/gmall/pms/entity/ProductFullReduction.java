@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * 产品满减表(只针对同商品)
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

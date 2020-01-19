@@ -16,7 +16,7 @@ import lombok.experimental.Accessors;
  * 后台用户和权限关系表(除角色中定义的权限以外的加减权限)
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

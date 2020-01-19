@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  * 限时购表 服务实现类
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Service

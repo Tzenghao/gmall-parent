@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 订单中所包含的商品 服务类
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 public interface OrderItemService extends IService<OrderItem> {

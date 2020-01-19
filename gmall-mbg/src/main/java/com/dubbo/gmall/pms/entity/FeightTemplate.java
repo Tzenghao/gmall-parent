@@ -17,8 +17,8 @@ import lombok.experimental.Accessors;
  * 运费模版
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

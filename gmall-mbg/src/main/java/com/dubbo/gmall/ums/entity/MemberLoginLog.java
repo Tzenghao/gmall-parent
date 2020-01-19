@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * 会员登录记录
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

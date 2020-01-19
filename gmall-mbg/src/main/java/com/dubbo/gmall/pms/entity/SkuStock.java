@@ -17,8 +17,8 @@ import lombok.experimental.Accessors;
  * sku的库存
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

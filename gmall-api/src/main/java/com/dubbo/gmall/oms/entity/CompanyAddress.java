@@ -16,7 +16,7 @@ import lombok.experimental.Accessors;
  * 公司收发货地址表
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

@@ -16,8 +16,8 @@ import lombok.experimental.Accessors;
  * 画册图片表
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

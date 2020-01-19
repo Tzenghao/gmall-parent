@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  * 存储产品参数信息的表 服务实现类
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Service

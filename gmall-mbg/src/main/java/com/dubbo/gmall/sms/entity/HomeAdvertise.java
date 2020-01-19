@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * 首页轮播广告表
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

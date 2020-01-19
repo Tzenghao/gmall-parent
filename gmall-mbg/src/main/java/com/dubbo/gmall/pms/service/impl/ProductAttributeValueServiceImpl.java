@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * 存储产品参数信息的表 服务实现类
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 @Service
 public class ProductAttributeValueServiceImpl extends ServiceImpl<ProductAttributeValueMapper, ProductAttributeValue> implements ProductAttributeValueService {

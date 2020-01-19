@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  * 产品满减表(只针对同商品) 服务实现类
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Service

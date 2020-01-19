@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 帮助表 服务类
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 public interface HelpService extends IService<Help> {

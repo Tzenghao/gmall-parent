@@ -16,7 +16,7 @@ import lombok.experimental.Accessors;
  * 人气推荐商品表
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

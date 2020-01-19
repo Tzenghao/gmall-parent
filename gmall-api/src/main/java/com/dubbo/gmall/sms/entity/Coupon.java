@@ -18,7 +18,7 @@ import lombok.experimental.Accessors;
  * 优惠卷表
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 @Data

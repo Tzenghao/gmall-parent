@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 限时购通知记录 服务类
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 public interface FlashPromotionLogService extends IService<FlashPromotionLog> {

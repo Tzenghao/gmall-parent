@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * sku的库存 服务实现类
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 @Service
 public class SkuStockServiceImpl extends ServiceImpl<SkuStockMapper, SkuStock> implements SkuStockService {

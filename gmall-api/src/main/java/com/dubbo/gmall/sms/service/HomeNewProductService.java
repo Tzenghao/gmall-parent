@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 新鲜好物表 服务类
  * </p>
  *
- * @author Lfy
+ * @author Zh
  * @since 2020-01-09
  */
 public interface HomeNewProductService extends IService<HomeNewProduct> {

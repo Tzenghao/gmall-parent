@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 相册表 服务类
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 public interface AlbumService extends IService<Album> {
 

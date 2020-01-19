@@ -42,13 +42,11 @@
                 </exclusion>
             </exclusions>
         </dependency>
-        <!--引入logback整合logstash第三方jar包-->
+        <!--redis场景启动器-->
         <dependency>
-            <groupId>net.logstash.logback</groupId>
-            <artifactId>logstash-logback-encoder</artifactId>
-            <version>5.3</version>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
         </dependency>
-
     </dependencies>
 
     <build>

@@ -17,8 +17,8 @@ import lombok.experimental.Accessors;
  * 产品满减表(只针对同商品)
  * </p>
  *
- * @author Lfy
- * @since 2020-01-09
+ * @author Zh
+ * @since 2020-01-14
  */
 @Data
 @EqualsAndHashCode(callSuper = false)
