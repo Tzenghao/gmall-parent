@@ -25,7 +25,7 @@
     </appender>
     <!--日志级别 DEBUG-INFO-WARN-ERROR-FATAL-->
     <!--INFO级别之后的日志会输出到控制台、文件、LOGSTASH-->
-    <root level="DEBUG">
+    <root level="INFO">
         <appender-ref ref="CONSOLE"/>
         <appender-ref ref="FILE"/>
         <appender-ref ref="LOGSTASH"/>

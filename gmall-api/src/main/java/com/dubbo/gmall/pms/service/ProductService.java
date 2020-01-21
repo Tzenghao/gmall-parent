@@ -3,6 +3,7 @@ package com.dubbo.gmall.pms.service;
 import com.dubbo.gmall.pms.entity.Product;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.dubbo.gmall.vo.PageInfoVo;
+import com.dubbo.gmall.vo.product.PmsProductParam;
 import com.dubbo.gmall.vo.product.PmsProductQueryParam;
 
 /**
@@ -20,4 +21,10 @@ public interface ProductService extends IService<Product> {
      * @return
      */
     PageInfoVo productPageInfo(PmsProductQueryParam productQueryParam);
+
+    /**
+     * 保存商品
+     * @param productParam
+     */
+    void saveProduct(PmsProductParam productParam);
 }
